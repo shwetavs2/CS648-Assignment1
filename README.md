@@ -5,15 +5,7 @@
 * vProspect  2.0
 * vConvert 2.0
 * vRetain 1.0
-**Client Testimonials**
-1. Throughout the years we have worked with Vecta Corporation, we have always been amazed at the level of dedication and professionalism that they have provided us and our WGDC products. It is this commitment that has increased both our income and exposure exponentially.
-_Ferris Finkelstein_
-_Founder and CEO_
-_Dorknozzle_
-2. Incredible results from an incredible effort by the Vecta Corporation team! We are very pleased with the business benefits we have rceived by working with them.
-_Justin Case_
-_CTO_
-_IX Inc._
+
 >Contact Vecta Corporation
 Vecta Corporation
 555 Technology Place
@@ -27,4 +19,4 @@ Tel. (800) 555-5555
 4. Mike, Vice President, Marketing
 5. Ferris, Founder and CEO
 
-### Created a HTML page  for Vecta Corp using *HTML* Tags and updated Readme file using _Markdown_
+##### Created a HTML page  for Vecta Corp using *HTML* Tags and updated README.md file using _Markdown_
