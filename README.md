@@ -27,6 +27,4 @@ Tel. (800) 555-5555
 4. Mike, Vice President, Marketing
 5. Ferris, Founder and CEO
 
-
-
- 
+### Created a HTML page  for Vecta Corp using *HTML* Tags and updated Readme file using _Markdown_
